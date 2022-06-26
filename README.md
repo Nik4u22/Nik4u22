@@ -9,7 +9,8 @@ hibernate, flutter, python, Data science and Machine learning.
 Training management students and conducting lectures on subjects like Marketing management, Supply chain management, Digital Marketing, Business Consulting, 
 Retail Marketing, Sales and marketing, Marketing research, Branding, Data Analytics, Business Analytics etc.
 
-- 📫 You can connect with me on LinkedIn for Partime/Freelance training or devlopement collabration. You can contact via +91-8983668615.
+- 📫 You can connect with me on LinkedIn - https://www.linkedin.com/in/nikhil-jagnade/ for Partime/Freelance training or devlopement collabration. 
+- You can contact me via +91-8983668615.
 
 <!---
 Nik4u22/Nik4u22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
