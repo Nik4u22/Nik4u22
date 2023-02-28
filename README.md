@@ -10,6 +10,7 @@ I am working on building a project portfolio and learning end-to-end Machine Lea
 I am also working with MSDE to implement the SANKALP project at the district level. Public policy consulting with added data analytics and research makes ground-level execution sensible.
 
 Business Domain Knowledge - IT, FMCG, Banking, Public Administration
+
 As on date Working on freelance training projects with IT EduTech training companies on technologies like core Java, advanced Java, Spring, springboot, 
 hibernate, flutter, python, Data science and Machine learning. 
 
