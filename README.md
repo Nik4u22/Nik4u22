@@ -1,5 +1,5 @@
 - 👋 Hi, I am Nikhil Jagnade - Passionate programmer and freelance trainer
-- 👀 I’m interested in Java, Python, Flutter, Data Science and Machine learning development and trainings.
+- 👀 I’m interested in Java, Python, Flutter, Data Analysis, Data Science and Machine learning development and trainings.
 
 I am a passionate computer programmer having business acumen. I am a hardworking person and prefer to spend hours learning new technologies to solve real-world problems. I am a voracious reader and a quick learner. I am experienced in IT, Marketing Analytics, FMCG sales and distribution, new product launches, and data analysis in Banking, and public administration. 
 
@@ -10,6 +10,10 @@ I am working on building a project portfolio and learning end-to-end Machine Lea
 I am also working with MSDE to implement the SANKALP project at the district level. Public policy consulting with added data analytics and research makes ground-level execution sensible.
 
 Business Domain Knowledge - IT, FMCG, Banking, Public Administration
+
+Tools Knowledge - MS Office, MS Excel, PowerBI, Tableau, VSCode IDE, Intelliji IDE, Eclipse IDE, Android Studio, Sublime Text, Jupyter Notebook, Docker, PyCharm IDE, Postman etc
+
+Cloud Stack - Google Cloud Platform, Amazon AWS etc
 
 As on date Working on freelance training projects with IT EduTech training companies on technologies like core Java, advanced Java, Spring, springboot, 
 hibernate, flutter, python, Data science and Machine learning. 
