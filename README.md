@@ -1,5 +1,5 @@
-- 👋 Hi, I am Nikhil Jagnade - Passionate programmer and freelance trainer
-- 👀 I’m interested in Java, Python, Flutter, Data Analysis, Data Science and Machine learning.
+## 👋 Hi, I am Nikhil Jagnade - Passionate programmer and freelance trainer
+## 👀 I’m interested in Java, Python, Flutter, Data Analysis, Data Science and Machine learning.
 
 I am a passionate computer programmer having business acumen. I am a hardworking person and prefer to spend hours learning new technologies to solve real-world problems. I am a voracious reader and a quick learner. I am experienced in IT, Marketing Analytics, FMCG sales and distribution, new product launches, and data analysis in Banking, and public administration. 
 
