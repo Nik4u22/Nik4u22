@@ -2,13 +2,13 @@
 
 ### 👀 I’m interested in Web developement, Software development, Business Intelligence, Data Analysis, Data Science and Machine learning.
 
-I am a passionate computer programmer having business acumen. I am a hardworking person and prefer to spend hours learning new technologies to solve real-world problems. I am a voracious reader and a quick learner. I am experienced in IT, Marketing Analytics, FMCG sales and distribution, new product launches, and data analysis in Banking, and public administration. 
+I am a passionate computer programmer having business acumen. I am a hardworking person and prefer to spend hours learning new technologies to solve real-world problems. I am a voracious reader and a quick learner. I started my corporate journey at a product-based IT startup. I am experienced in IT, Marketing Analytics, FMCG sales and distribution, new product launches, and data analysis in Banking, and public administration. 
 
-I am working in the data science domain to build innovative AI products from scratch to solve real-world business problems. I love building things from scratch and prefer to work on building end-end projects as a full-stack developer. Experienced in business analytics, data analytics, business consulting, machine learning, deep learning, and cloud computing. I also contribute to part-time freelance projects and assignments related to training, counseling, and development.
+Currently, I am working with MSDE to implement the SANKALP project at the district level. I am helping key decision makers to get insights from public schemes data by representing it in the form of beautiful reports and dashboards. Public policy consulting with added data analytics and research makes ground-level execution sensible.
 
-I am working on building a project portfolio and learning end-to-end Machine Learning Project Life Cycle, ML Model Development, ML Model Deployment in production, Monitoring, and performance evaluation, and system maintenance - concept/data drift. I have been using Python, TensorFlow, PyTorch, Keras, Flask, Django, Docker, etc I have also been working on developing web applications and websites using python, Django, HTML, CSS, and Javascript.
+I am also working in the data science domain to build innovative AI products from scratch to solve real-world business problems. I love making things from scratch and prefer to work on building end-end projects as a full-stack developer. I am experienced in business analytics, data analytics, business consulting, business intelligence, machine learning, deep learning, and cloud computing. I also contribute to part-time freelance projects and assignments related to training, counseling, and development.
 
-I am also working with MSDE to implement the SANKALP project at the district level. Public policy consulting with added data analytics and research makes ground-level execution sensible.
+I am also working on building a project portfolio and learning end-to-end Machine Learning Project Life Cycle, ML Model Development, ML Model Deployment in production, Monitoring, and performance evaluation, and system maintenance - concept/data drift. I have used Python, TensorFlow, PyTorch, Keras, Flask, Django, Docker, etc. I have also been working on developing web applications and websites using python, Django, HTML, CSS, and Javascript.
 
 ### Business Domain Knowledge - IT, FMCG, Banking, Public Administration
 
