@@ -1,6 +1,6 @@
-### 👋 Hi, I am Nikhil Jagnade - Passionate computer programmer and freelance trainer
+### 👋 Hi, I am Nikhil Jagnade - Passionate computer programmer, Technical Project manager and freelance trainer
 
-### 👀 I’m interested in Web developement, Software development, Business Intelligence, Data Analysis, Data Science and Machine learning.
+### 👀 I’m interested in Web developement, Software development, Business Intelligence, Data Analysis, Data Engineering, Data Visualization, Business Workflow Automation, Data Science and Machine learning.
 
 I am a passionate computer programmer having business acumen. I am a hardworking person and prefer to spend hours learning new technologies to solve real-world problems. I am a voracious reader and a quick learner. I started my corporate journey at a product-based IT startup. 
 
